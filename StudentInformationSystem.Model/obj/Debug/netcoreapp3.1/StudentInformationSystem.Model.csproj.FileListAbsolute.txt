@@ -1,0 +1,12 @@
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\bin\Debug\netcoreapp3.1\StudentInformationSystem.Model.deps.json
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\bin\Debug\netcoreapp3.1\StudentInformationSystem.Model.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\bin\Debug\netcoreapp3.1\StudentInformationSystem.Model.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.csproj.CopyComplete
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Model\obj\Debug\netcoreapp3.1\StudentInformationSystem.Model.pdb

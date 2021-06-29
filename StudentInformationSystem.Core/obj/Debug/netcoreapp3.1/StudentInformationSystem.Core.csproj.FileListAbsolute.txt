@@ -1,0 +1,12 @@
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.deps.json
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.runtimeconfig.json
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.genruntimeconfig.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Core\obj\Debug\netcoreapp3.1\StudentInformationSystem.Core.csproj.CoreCompileInputs.cache

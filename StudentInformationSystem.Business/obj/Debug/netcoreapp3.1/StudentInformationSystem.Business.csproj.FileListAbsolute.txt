@@ -1,0 +1,17 @@
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Business.deps.json
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Business.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Business.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Data.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Model.dll
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Data.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Data.dll.config
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Model.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\bin\Debug\netcoreapp3.1\StudentInformationSystem.Core.pdb
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.csproj.CopyComplete
+C:\Users\ozlem\source\repos\StudentInformationSystem\StudentInformationSystem.Business\obj\Debug\netcoreapp3.1\StudentInformationSystem.Business.csproj.CoreCompileInputs.cache
